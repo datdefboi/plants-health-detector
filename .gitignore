@@ -2,3 +2,4 @@ logs
 mnist
 checkpint*/**
 .ipynb_checkpoints
+check*
